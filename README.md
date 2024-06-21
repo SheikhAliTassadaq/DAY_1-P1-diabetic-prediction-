@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/SheikhAliTassadaq/DAY_1-P1-diabetic-prediction-/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sheikh Ali Tassadaq</h1>
 <h3 align="center">A passionate AI enthusiast from Pakistan committed to leveraging technology to solve real-world problems</h3>
 
